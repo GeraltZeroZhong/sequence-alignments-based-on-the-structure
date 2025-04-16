@@ -1,0 +1,1 @@
+Place all PDB files to be aligned into the "pdbs" folder. Ensure that the reference structure is named "ref.pdb"
